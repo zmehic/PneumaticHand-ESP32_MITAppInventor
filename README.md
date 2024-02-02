@@ -37,4 +37,4 @@ For example, let's say a patient sets the number of cycles to 3, repetitions to 
 #### Element 6
 This element is used to set the maximum pressure in the glove. Patient can alter this value to have his hand open more or less.
 
-### Data storage
+
